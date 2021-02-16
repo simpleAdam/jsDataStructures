@@ -9,3 +9,5 @@ class Stack{
   this.list.pop(item)
   }
 }
+
+//module.exports=Stack
