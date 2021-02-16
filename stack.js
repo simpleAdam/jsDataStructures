@@ -1,13 +1,13 @@
 class Stack{
-constructor() {
-this.list=[];
+  constructor() {
+    this.list=[];
 }
-add(item) {
-this.list.push(item)
-}
-pop(item) {
-this.list.pop(item)
-}
+  add(item) {
+    this.list.push(item)
+  }
+  pop(item) {
+  this.list.pop(item)
+  }
 }
 
 let pile = new Stack
